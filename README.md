@@ -1,7 +1,7 @@
 # Hi, I'm Ziyang 
 
 
-I have foundation in AI and Data. With a hands-on approach to problem-solving, I have led and contributed to many meaningful projects spanning content moderation, emotion recognition, and visualising the world biggest data breaches.
+I have a strong foundation in AI and Data. With a hands-on approach to problem-solving, I have led and contributed to many meaningful projects spanning content moderation, emotion recognition, and visualising the world biggest data breaches. 
 
 
 
@@ -9,7 +9,7 @@ I have foundation in AI and Data. With a hands-on approach to problem-solving, I
 
 - **Languages:** Python, R, SQL 
 - **Frameworks & Tools:** PyTorch, NumPy, Pandas, RStudio, Tidyverse, Quarto, NoSQL, pgAdmin 4, MongoDB, MariaDB, Hugging Face, HTML/CSS, Jupyter Notebook, Google Colab, VS Code, GitHub
-- **Areas of Interest:** Data Analysis, ML/DL. LLMs, Data Engineering & Visualization
+- **Areas of Interest:** Data Analysis, ML/DL, LLMs, Data Engineering & Visualization
 
 
 
