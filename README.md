@@ -7,8 +7,8 @@ I have a strong foundation in AI and Data. With a hands-on approach to problem-s
 
 ## Technical Skills
 
-- **Languages:** Python, R, SQL 
-- **Frameworks & Tools:** PyTorch, NumPy, Pandas, RStudio, Tidyverse, Quarto, NoSQL, pgAdmin 4, MongoDB, MariaDB, Hugging Face, HTML/CSS, Jupyter Notebook, Google Colab, VS Code, GitHub
+- **Languages:** Python, R, SQL, HTML5/CSS, JavaScript
+- **Frameworks & Tools:** PyTorch, NumPy, Pandas, RStudio, Tidyverse, Quarto, NoSQL, pgAdmin 4, MongoDB,MariaDB, Hugging Face, Jupyter Notebook, Google Colab, VS Code, GitHub, Excel/PowerPoint/Word
 - **Areas of Interest:** Data Analysis, ML/DL, LLMs, Data Engineering & Visualization
 
 
