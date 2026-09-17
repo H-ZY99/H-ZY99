@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-hongziyang63%40gmail.com-D14836?style=flat-square)](mailto:hongziyang63@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-00b3ae?style=flat-square)](https://H-ZY99.github.io/CV/HongZiyang-Resume.pdf)
 
-I am an Applied AI graduate from the Singapore Institute of Technology (Honours with Distinction), with a focus on machine learning, deep learning, reinforcement learning, computer vision, NLP/LLMs and multimodal systems. Most recently, I researched Multi-Agent Reinforcement Learning (MARL) for autonomous drone swarm navigation at AETHER with RAiD.
+I have always been curious about how AI can reshape industries and improve the way we live and work. My goal is to apply my skills and knowledge to build technology that makes a positive impact on society.
 
 ## Work Experience
 
@@ -17,7 +17,7 @@ I am an Applied AI graduate from the Singapore Institute of Technology (Honours 
 | **Service Medic cum Dispensary Department In-Charge** | Republic of Singapore Air Force (National Service) | Feb 2022 – May 2023 |
 | **Quality Assurance Auditor, Intern** | ASMPT Ltd | Oct 2017 – Mar 2018 |
 
-- **AETHER with RAiD:** Explored MARL for autonomous drone swarm operations. For my capstone, developed a hybrid navigation framework integrating global path planning with MARL algorithms.
+- **AETHER with RAiD:** Explored Multi-Agent Reinforcement Learning (MARL) for autonomous drone swarm operations. For my capstone, developed a hybrid navigation framework integrating global path planning with MARL algorithms.
 - **RSAF:** Led a team of 4 personnel, optimising task delegation and coordination, and oversaw inventory management using SAP for transactions and supply chain monitoring.
 - **ASMPT:** Identified and addressed process deviations, contributing to lower defect rates and improved production efficiency.
 
