@@ -1,39 +1,48 @@
-# Hi, I'm Ziyang 
+# Ziyang Hong
 
+**Applied AI Graduate | Analytics · Research · Problem Solving | Singapore**
 
-I have a strong foundation in AI and Data. With a hands-on approach to problem-solving, I have led and contributed to many meaningful projects spanning content moderation, emotion recognition, and visualising the world biggest data breaches. 
+[![Portfolio](https://img.shields.io/badge/Portfolio-H--ZY99.github.io-5b4cdb?style=flat-square)](https://H-ZY99.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ziyang--hong--dr-0A66C2?style=flat-square)](https://www.linkedin.com/in/ziyang-hong-dr/)
+[![Email](https://img.shields.io/badge/Email-hongziyang63%40gmail.com-D14836?style=flat-square)](mailto:hongziyang63@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-00b3ae?style=flat-square)](https://H-ZY99.github.io/CV/HongZiyang-Resume.pdf)
 
+I am an Applied AI graduate from the Singapore Institute of Technology (Honours with Distinction), with a focus on machine learning, deep learning, reinforcement learning, computer vision, NLP/LLMs and multimodal systems. Most recently, I researched Multi-Agent Reinforcement Learning (MARL) for autonomous drone swarm navigation at AETHER with RAiD.
 
+## Work Experience
+
+| Role | Organisation | Period |
+| --- | --- | --- |
+| **AI Solution Intern, MARL Team** | AETHER with RAiD, RSAF | Sep 2025 – Apr 2026 |
+| **Service Medic cum Dispensary Department In-Charge** | Republic of Singapore Air Force (National Service) | Feb 2022 – May 2023 |
+| **Quality Assurance Auditor, Intern** | ASMPT Ltd | Oct 2017 – Mar 2018 |
+
+- **AETHER with RAiD:** Explored MARL for autonomous drone swarm operations. For my capstone, developed a hybrid navigation framework integrating global path planning with MARL algorithms.
+- **RSAF:** Led a team of 4 personnel, optimising task delegation and coordination, and oversaw inventory management using SAP for transactions and supply chain monitoring.
+- **ASMPT:** Identified and addressed process deviations, contributing to lower defect rates and improved production efficiency.
+
+## Education
+
+| Degree | Institution | Period |
+| --- | --- | --- |
+| **BSc (Hons) in Applied Artificial Intelligence**<br>Honours with Distinction | Singapore Institute of Technology | Aug 2023 – Apr 2026 |
 
 ## Technical Skills
 
-- **Languages:** Python, R, SQL, HTML5/CSS, JavaScript
-- **Frameworks & Tools:** PyTorch, NumPy, Pandas, RStudio, Tidyverse, Quarto, NoSQL, pgAdmin 4, MongoDB,MariaDB, Hugging Face, Jupyter Notebook, Google Colab, VS Code, GitHub, Excel/PowerPoint/Word
-- **Areas of Interest:** Data Analysis, ML/DL, LLMs, Data Engineering & Visualization
+- **Core AI:** Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, NLP/LLMs, Multimodal AI, PyTorch, Hugging Face
+- **Languages:** Python, R, SQL, JavaScript, HTML5/CSS
+- **Libraries & Tools:** NumPy, pandas, scikit-learn, RStudio, Tidyverse, Quarto, Jupyter Notebook, Google Colab, VS Code, GitHub
+- **Databases:** PostgreSQL (pgAdmin 4), MongoDB, MariaDB, NoSQL
 
+## Open Source Projects
 
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Multimodal LLM Profanity Detection & Detoxification](https://github.com/H-ZY99/profanity-detection) | Led a team of 5 to design, develop and deploy a context-aware content moderation system for audio and text, using LLMs and real-time streaming. | Python, LLMs, Multimodal AI |
+| [Speech Emotion Recognition](https://github.com/H-ZY99/Speech-Emotion-Recognition-using-Wav2Vec2) | Built a Wav2Vec2-based classifier for four emotions (neutral, happy, sad, angry), achieving 69.02% accuracy on IEMOCAP with data augmentation. | Python, Wav2Vec2, IEMOCAP |
+| [World's Biggest Data Breaches & Hacks](https://github.com/H-ZY99/Interactive-Data-Breach-Visualizer) | Led a team of 6 to build an interactive dashboard visualising global data breaches and their trends over time. | R, Data Visualisation |
+| [FoodVision](https://github.com/H-ZY99/FoodVision) | Built a food detection system that recognises 55 food classes, with calorie estimation and a web interface supporting image upload and camera capture. | Python, YOLOv8, Computer Vision |
 
+## Contact
 
-## Core Projects
-
-- **[Multimodal LLM-Based Profanity Detection](https://github.com/2302660/profanity-detection.git)**  
-  Designed a context-aware content moderation system for both audio and text using LLMs and real-time streaming.
-  
-- **[FoodVision](https://github.com/2302660/FoodVision.git)**  
-  Deep learning-based food detection system using YOLOv8 to identify 55 different food classes, with calorie estimation and a web interface featuring image upload and camera capture capabilities.
-
-- **[Speech Emotion Recognition with Wav2Vec2](https://github.com/2302660/Speech-Emotion-Recognition-using-Wav2Vec2.git)**  
-  System using Wav2Vec2 to classify speech into four emotional categories (Neutral, Happy, Sad, Angry), achieving 69.02% accuracy through transformer architecture and robust data augmentation techniques.
-
-- **[Interactive Data Breach Visualizer](https://github.com/2302660/r_team_project.git)**  
-  Created an R-powered visualization dashboard of the world’s largest data breaches with advanced filtering capabilities.
-
-
-
-
-## Connect
-
-- LinkedIn: [https://www.linkedin.com/in/ziyang-hong-dr/](https://www.linkedin.com/in/ziyang-hong-dr/)  
-- Email: hongziyang63@gmail.com  
-
-
+Open to opportunities and collaborations in AI. Reach me via [LinkedIn](https://www.linkedin.com/in/ziyang-hong-dr/) or [email](mailto:hongziyang63@gmail.com), or visit my [portfolio](https://H-ZY99.github.io).
