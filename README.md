@@ -31,17 +31,17 @@ I have always been curious about how AI can reshape industries and improve the w
 
 - **Core AI:** Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, NLP/LLMs, Multimodal AI, PyTorch, Hugging Face
 - **Languages:** Python, R, SQL, JavaScript, HTML5/CSS
-- **Libraries & Tools:** NumPy, pandas, scikit-learn, RStudio, Tidyverse, Quarto, Jupyter Notebook, Google Colab, VS Code, GitHub
+- **Libraries & Tools:** NumPy, pandas, scikit-learn, RStudio, Tidyverse, Quarto, Streamlit, Gradio, Shiny, Jupyter Notebook, Google Colab, VS Code, GitHub
 - **Databases:** PostgreSQL (pgAdmin 4), MongoDB, MariaDB, NoSQL
 
 ## Open Source Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Multimodal LLM Profanity Detection & Detoxification](https://github.com/H-ZY99/profanity-detection) | Led a team of 5 to design, develop and deploy a context-aware content moderation system for audio and text, using LLMs and real-time streaming. | Python, LLMs, Multimodal AI |
-| [Speech Emotion Recognition](https://github.com/H-ZY99/Speech-Emotion-Recognition-using-Wav2Vec2) | Built a Wav2Vec2-based classifier for four emotions (neutral, happy, sad, angry), achieving 69.02% accuracy on IEMOCAP with data augmentation. | Python, Wav2Vec2, IEMOCAP |
-| [World's Biggest Data Breaches & Hacks](https://github.com/H-ZY99/Interactive-Data-Breach-Visualizer) | Led a team of 6 to build an interactive dashboard visualising global data breaches and their trends over time. | R, Data Visualisation |
-| [FoodVision](https://github.com/H-ZY99/FoodVision) | Built a food detection system that recognises 55 food classes, with calorie estimation and a web interface supporting image upload and camera capture. | Python, YOLOv8, Computer Vision |
+| [Profanity Detection & Detoxification](https://github.com/H-ZY99/profanity-detection) | Led a team of 5 to build a multimodal system that detects and rephrases profanity in speech and text, deployed on Hugging Face Spaces. | Python, LLMs, Gradio |
+| [Speech Emotion Recognition](https://github.com/H-ZY99/Speech-Emotion-Recognition-using-Wav2Vec2) | Deep learning system that classifies speech into four emotions (neutral, happy, sad, angry), achieving 69.02% accuracy on the IEMOCAP dataset. | Python, PyTorch, Wav2Vec2 |
+| [World's Biggest Data Breaches & Hacks](https://github.com/H-ZY99/Interactive-Data-Breach-Visualizer) | Led a team of 6 to build an interactive dashboard exploring global data breaches by year, sector and scale. | R, Shiny, Quarto |
+| [FoodVision](https://github.com/H-ZY99/FoodVision) | Food detection system covering 55 classes, with calorie estimation per 100 g for dietary monitoring. | Python, YOLOv8, Streamlit |
 
 ## Contact
 
