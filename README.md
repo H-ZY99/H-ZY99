@@ -14,12 +14,14 @@ I have always been curious about how AI can reshape industries and improve the w
 | Role | Organisation | Period |
 | --- | --- | --- |
 | **AI Solution Intern, MARL Team** | AETHER with RAiD, RSAF | Sep 2025 – Apr 2026 |
-| **Service Medic cum Dispensary Department In-Charge** | The Republic of Singapore Air Force (National Service) | Feb 2022 – May 2023 |
+| **Service Medic (NSF)** | The Republic of Singapore Air Force | Feb 2022 – May 2023 |
 | **Quality Assurance Auditor, Intern** | ASMPT Ltd | Oct 2017 – Mar 2018 |
 
 - **AETHER with RAiD:** Explored Multi-Agent Reinforcement Learning (MARL) for autonomous drone swarm operations. For my capstone, developed a hybrid navigation framework integrating global path planning with MARL algorithms.
-- **RSAF:** Led a team of 4 personnel, optimising task delegation and coordination, and oversaw inventory management using SAP for transactions and supply chain monitoring.
-- **ASMPT:** Identified and addressed process deviations, contributing to lower defect rates and improved production efficiency.
+
+- **RSAF:** Led a team of 4 personnel as a dispensary i/c, optimising task delegation and coordination, and oversaw inventory management using SAP for transactions and supply chain monitoring.
+
+- **ASMPT Ltd:** Identified and addressed process deviations, contributing to lower defect rates and improved production efficiency.
 
 ## Education
 
