@@ -45,4 +45,6 @@ I have always been curious about how AI can reshape industries and improve the w
 
 ## Contact
 
-Open to opportunities and collaborations in AI. Reach me via [LinkedIn](https://www.linkedin.com/in/ziyang-hong-dr/) or [email](mailto:hongziyang63@gmail.com), or visit my [portfolio](https://H-ZY99.github.io).
+Open to opportunities and collaborations.
+
+Reach me via [LinkedIn](https://www.linkedin.com/in/ziyang-hong-dr/), or [Email](mailto:hongziyang63@gmail.com), or visit my [Portfolio](https://H-ZY99.github.io).
