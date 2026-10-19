@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-H--ZY99.github.io-5b4cdb?style=flat-square)](https://H-ZY99.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ziyang--hong--dr-0A66C2?style=flat-square)](https://www.linkedin.com/in/ziyang-hong-dr/)
 [![Email](https://img.shields.io/badge/Email-hongziyang63%40gmail.com-D14836?style=flat-square)](mailto:hongziyang63@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-00b3ae?style=flat-square)](https://H-ZY99.github.io/CV/HongZiyang-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-00b3ae?style=flat-square)](https://H-ZY99.github.io/CV/HongZiyang_Resume.pdf)
 
 I have always been curious about how AI can reshape industries and improve the way we live and work. My goal is to apply my skills and knowledge to build technology that makes a positive impact on society.
 
