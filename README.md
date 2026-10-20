@@ -32,9 +32,9 @@ I have always been curious about how AI can reshape industries and improve the w
 ## Technical Skills
 
 - **Core AI:** Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, NLP/LLMs, Multimodal AI, PyTorch, Hugging Face
-- **Languages:** Python, R, SQL, JavaScript, HTML5/CSS
-- **Libraries & Tools:** NumPy, pandas, scikit-learn, RStudio, Tidyverse, Quarto, Streamlit, Gradio, Shiny, Jupyter Notebook, Google Colab, VS Code, GitHub
-- **Databases:** PostgreSQL (pgAdmin 4), MongoDB, MariaDB, NoSQL
+- **Languages:** Python, R, SQL, HTML5/CSS, JavaScript
+- **Libraries & Tools:** Scikit-learn, NumPy, Pandas, TensorBoard, RStudio, Tidyverse, Shiny, Plotly, Streamlit, Gradio, Quarto, Jupyter Notebook, Google Colab, VS Code, GitHub, Excel/PowerPoint/Word
+- **Databases:** pgAdmin 4, MongoDB (NoSQL), MariaDB
 
 ## Open Source Projects
 
