@@ -14,10 +14,13 @@ I have always been curious about how AI can reshape industries and improve the w
 | Role | Organisation | Period |
 | --- | --- | --- |
 | **AI Solution Intern, MARL Team** | AETHER with RAiD, RSAF | Sep 2025 – Apr 2026 |
+| **Project Member, Integrative Team Project** | TradeFlow Capital Management | Jan 2025 – Jul 2025 |
 | **Service Medic (NSF)** | The Republic of Singapore Air Force | Feb 2022 – May 2023 |
 | **Quality Assurance Auditor, Intern** | ASMPT Ltd | Oct 2017 – Mar 2018 |
 
 - **AETHER with RAiD:** Explored Multi-Agent Reinforcement Learning (MARL) for autonomous drone swarm operations. For my capstone, developed a hybrid navigation framework integrating global path planning with MARL algorithms.
+
+- **TradeFlow Capital Management:** Engineered crop health features for yield prediction of selected agricultural commodities by computing the Normalized Difference Vegetation Index (NDVI) from Sentinel-2 satellite imagery. Applied temporal encoding for cyclical crop growth seasons and integrated temperature and precipitation data from a weather API to add environmental context to the NDVI time series.
 
 - **RSAF:** Led a team of 4 personnel as a dispensary i/c, optimising task delegation and coordination, and oversaw inventory management using SAP for transactions and supply chain monitoring.
 
